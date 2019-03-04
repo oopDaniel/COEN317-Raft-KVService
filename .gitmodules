@@ -4,3 +4,6 @@
 [submodule "goServer"]
 	path = goServer
 	url = git@github.com:oopDaniel/COEN317-Raft-KVService-go_server.git
+[submodule "server"]
+	path = server
+	url = git@github.com:hechaoyi/coen317_project_raft.git
