@@ -44,6 +44,8 @@ npm i && npm start // or `yarn` alternatively
 ### Log Replication
 ![](./screenshots/logRep.gif)
 
+### Leader Election
+![](./screenshots/leaderElection.gif)
 
 
 ## What’s Included?
